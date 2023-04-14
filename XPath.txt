@@ -4,4 +4,4 @@
 
 3 - count(//book[@type='bd'])
 
-4 - La requête renvoie tous les éléments library qui sont ancêtres de l'élément library. En d'autres termes, elle renvoie tous les éléments library qui contiennent l'élément library. Dans l'exemple donné, elle renvoie donc l'élément library racine qui contient tous les éléments book et l'élément library enfant.
+4 - La requête renvoie tous les éléments library qui contiennent l'élément library. Dans l'exemple donné, elle renvoie donc l'élément library racine qui contient tous les éléments book et l'élément library enfant.
